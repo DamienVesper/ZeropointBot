@@ -31,7 +31,7 @@
     "discord.js": "^12.5.1",
     "dotenv": "^8.2.0",
     "ffmpeg-static": "^4.3.0",
-    "mongoose": "^5.12.3",
+    "mongoose": "^5.12.9",
     "ytdl-core": "^4.5.0"
   },
   "devDependencies": {
