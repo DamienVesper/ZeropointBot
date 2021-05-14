@@ -32,7 +32,7 @@
     "dotenv": "^8.2.0",
     "ffmpeg-static": "^4.3.0",
     "mongoose": "^5.12.3",
-    "ytdl-core": "^4.5.0"
+    "ytdl-core": "^4.8.0"
   },
   "devDependencies": {
     "@types/node": "^14.14.37",
