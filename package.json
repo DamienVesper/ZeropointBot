@@ -30,7 +30,7 @@
     "discord.js": "^12.5.1",
     "dotenv": "^10.0.0",
     "ffmpeg-static": "^4.3.0",
-    "mongoose": "^5.12.14",
+    "mongoose": "^5.12.15",
     "ytdl-core": "^4.8.2"
   },
   "devDependencies": {
